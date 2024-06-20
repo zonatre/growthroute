@@ -2131,4 +2131,8 @@ a.uk-slidenav > * {
   display: none !important;
 }
 
+.item.logo {
+  max-width: 150px;
+}
+
 /*# sourceMappingURL=style.css.map */
