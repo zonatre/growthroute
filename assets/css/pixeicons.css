@@ -787,3 +787,6 @@
 .pr-logo-youtube:before {
   content: "\e913";
 }
+[data-uk-svg] {
+  max-width: 150px;
+}
